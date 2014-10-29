@@ -4,4 +4,4 @@ rainbowify
 rainbowify your text with a simple call of rainbowify();!
 
 
-:grimacing:
+![alt tag](https://raw.github.com/silicarich/rainbowify/blob/master/RAINBOWIFIED.png)
